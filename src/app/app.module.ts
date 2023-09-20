@@ -1,3 +1,4 @@
+import { RouterModule } from '@angular/router';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -7,6 +8,8 @@ import { RodapeComponent } from './componentes/rodape/rodape.component';
 import { CriarPensamentoComponent } from './componentes/pensamentos/criar-pensamento/criar-pensamento.component';
 import { FormsModule } from '@angular/forms';
 import { ListarPensamentoComponent } from './componentes/pensamentos/listar-pensamento/listar-pensamento.component';
+import { AppRoutingModule } from './app-routing.module';
+import { PensamentoComponent } from './componentes/pensamentos/pensamento/pensamento.component';
 
 @NgModule({
   declarations: [
@@ -14,11 +17,14 @@ import { ListarPensamentoComponent } from './componentes/pensamentos/listar-pens
     CabecalhoComponent,
     RodapeComponent,
     CriarPensamentoComponent,
-    ListarPensamentoComponent
+    ListarPensamentoComponent,
+    PensamentoComponent
   ],
   imports: [
     BrowserModule,
-    FormsModule
+    AppRoutingModule,
+    FormsModule,
+   
   ],
   providers: [],
   bootstrap: [AppComponent]
