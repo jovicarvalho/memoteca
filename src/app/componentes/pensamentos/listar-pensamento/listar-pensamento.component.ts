@@ -9,13 +9,14 @@ import { PensamentoService } from '../pensamento.service';
 })
 export class ListarPensamentoComponent implements OnInit {
 
+  paginaAtual:number = 1;
   listaPensamentos : Pensamento[] = [
 
   ];
   constructor(private service: PensamentoService) { }
 
   ngOnInit(): void {
-    this.service.listar().subscribe((listaPensamentos)=>{
+    this.service.listar(this.paginaAtual).subscribe((listaPensamentos)=>{
       this.listaPensamentos = listaPensamentos
     })
   }
