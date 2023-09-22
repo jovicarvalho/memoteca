@@ -1,22 +1,10 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que você está aqui!😁",
-      "autoria": "Joao Vitor",
-      "modelo": "modelo1"
-    },
-    {
       "conteudo": "Estou Aprendendo Angular pela Alura e adorando 😊",
       "autoria": "Dante",
       "modelo": "modelo2",
       "id": 2
-    },
-    {
-      "conteudo": "O ngOnInit lembra muito o useEffect do react, em relação ao lifecycle do componente 🤔💭",
-      "autoria": "João Vitor",
-      "modelo": "modelo3",
-      "id": 3
     },
     {
       "conteudo": "Preciso estudar sobre testes em Angular                         🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪",
@@ -32,7 +20,7 @@
     },
     {
       "conteudo": "Como subir de Elo no LoL: - Jogar com poucos bonecos que tenha mais domínio; Entender sobre controle de wave e kill pressure; Destribuir vantagem de gold e focar em objetivos; 📈",
-      "autoria": "",
+      "autoria": "Dante",
       "modelo": "modelo3",
       "id": 7
     },
