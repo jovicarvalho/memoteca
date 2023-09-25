@@ -4,121 +4,134 @@
       "conteudo": "Estou Aprendendo Angular pela Alura e adorando 😊",
       "autoria": "Dante",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 2
     },
     {
       "conteudo": "Preciso estudar sobre testes em Angular                         🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪🧪",
       "autoria": "Dante",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 4
-    },
-    {
-      "conteudo": "Bolo  de Cenoura:  Em um liquidificador, bata as cenouras, a margarina e os ovos;  2 Em um recipiente, coloque o creme de cenouras e adicione o açúcar e a farinha peneirados e misture bem;  3 Junte o fermento e misture um pouco mais;  4 Despeje a massa em uma forma de furo no meio, untada e enfarinhada, e leve para assar em forno médio por, aproximadamente, 45 minutos.  Cobertura  1 Em uma panela, coloque todos os ingredientes da cobertura e cozinhe, misturando continuamente, até que forme uma cobertura lisa;  2 Desenforme o bolo e cubra com a cobertura. Sirva.",
-      "autoria": "Dev Cozinheiro",
-      "modelo": "modelo2",
-      "id": 6
     },
     {
       "conteudo": "Como subir de Elo no LoL: - Jogar com poucos bonecos que tenha mais domínio; Entender sobre controle de wave e kill pressure; Destribuir vantagem de gold e focar em objetivos; 📈",
       "autoria": "Dante",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "Alura + DIO + CoffeAndIT + Microsoft Learn + Youtube + Harvard CS50 🤓📝",
       "autoria": "Joao Carvalho",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 8
     },
     {
-      "conteudo": "Aprendendo Angualar",
-      "autoria": "testes",
-      "modelo": "modelo1",
-      "id": 9
+      "conteudo": "Testes",
+      "autoria": "aaaaaaaaaaa",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 10
     },
     {
       "conteudo": "Testes",
       "autoria": "aaaaaaaaaaa",
       "modelo": "modelo3",
-      "id": 10
-    }
-    ,
-    {
-      "conteudo": "Testes",
-      "autoria": "aaaaaaaaaaa",
-      "modelo": "modelo3",
-      "id":30
-    }
-    ,
-    {
-      "conteudo": "Testes",
-      "autoria": "aaaaaaaaaaa",
-      "modelo": "modelo3",
-      "id":19
-    }
-    ,
-    {
-      "conteudo": "Testes",
-      "autoria": "aaaaaaaaaaa",
-      "modelo": "modelo3",
-      "id": 27
-    }
-    ,
-    {
-      "conteudo": "Testes",
-      "autoria": "aaaaaaaaaaa",
-      "modelo": "modelo3",
+      "favorito": true,
       "id": 24
-    }
-    ,
+    },
     {
       "conteudo": "Testes",
       "autoria": "aaaaaaaaaaa",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 22
-    }
-    ,
+    },
     {
       "conteudo": "Testes",
       "autoria": "aaaaaaaaaaa",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 17
-    }
-    ,
+    },
     {
       "conteudo": "Testes",
       "autoria": "aaaaaaaaaaa",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 16
-    }
-    ,
+    },
     {
       "conteudo": "Testes",
       "autoria": "aaaaaaaaaaa",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 15
-    }
-    ,
+    },
     {
       "conteudo": "Testes",
       "autoria": "aaaaaaaaaaa",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 14
-    }
-    ,
+    },
     {
       "conteudo": "Testes",
       "autoria": "aaaaaaaaaaa",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 12
-    }
-    ,
+    },
     {
       "conteudo": "Testes",
       "autoria": "aaaaaaaaaaa",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 13
+    },
+    {
+      "conteudo": "Aprendendo Angular",
+      "autoria": "aaaa",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 31
+    },
+    {
+      "conteudo": "Aprendendo Angualr",
+      "autoria": "Dante",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 32
+    },
+    {
+      "conteudo": "O mundo não está em seus livros e mapas. Ele está lá fora!",
+      "autoria": "Gandalf",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 33
+    },
+    {
+      "conteudo": "Senhor, conceda-me a serenidade para aceitar aquilo que não posso mudar, a coragem para mudar o que me for possível e a sabedoria para saber discernir entre as duas.",
+      "autoria": "Reinhold Niebuhr",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 34
+    },
+    {
+      "conteudo": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "autoria": "Dante",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 35
+    },
+    {
+      "conteudo": "Diamante 1",
+      "autoria": "Diego",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 36
     }
-    
   ]
 }
